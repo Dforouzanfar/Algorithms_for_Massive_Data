@@ -14,7 +14,7 @@ Frequent Singletons: 81 frequently appearing individual skills, with "communicat
 Frequent Pairs: 67 pairs of skills, with "teamwork and communication" as the most frequent combination.  
 Frequent Triples: 25 triples, with "teamwork, communication, and customer service" as the most common group.  
 
-## To run this project, you’ll need:
+### To run this project, you’ll need:
 Python 3.7+  
 PySpark for distributed data processing  
 Kaggle API to download the dataset  
